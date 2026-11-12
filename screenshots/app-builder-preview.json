@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SIN St. Pete",
+      "hasCanvas": false,
+      "bodyTextLen": 5134,
+      "bodyTextHash": "59747c2fcdf35129320ed853ad78784427ceafe44902d5a740a78641b8c76f82",
+      "bodyTextPrefix": "40 16 4 7 2 3 3 © Esri, TomTom, OSM Search businesses and specia",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SIN St. Pete",
+      "hasCanvas": false,
+      "bodyTextLen": 132,
+      "bodyTextHash": "1ba0d9bd01115d0ca8657cf62313271a2a1f068e3229a46abf0c13c059f91c05",
+      "bodyTextPrefix": "7 39 11 2 3 3 4 2 3 2 © Esri, TomTom, OSM Search businesses and ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
